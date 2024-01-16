@@ -9,5 +9,6 @@ package com.solucion.proyectofinal;
  * @author Sebastian
  */
 public class ClasePublica {
-
+    String campo1;
+    String campo2;
 }
